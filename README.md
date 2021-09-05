@@ -181,9 +181,8 @@ Here are the **steps** in RFM analysis:
 
 #### RFM Score in 2009-2010
 ![image](https://user-images.githubusercontent.com/88583319/132128283-fb67ae04-c99d-436e-afa0-b66673d5a291.png)
-
-#### RFM Score in 2010- 2011
-![image](https://user-images.githubusercontent.com/88583319/132128441-540cec2b-ba80-4a8d-b6ac-ee2939afe9fa.png)
+#### RFM Score in 2010- 2011 
+![image](https://user-images.githubusercontent.com/88583319/132129170-1644b15d-6ae9-4596-9b32-1424c4a1de48.png)
 
 ### 3. Calculate the total RFM score
    A total RFM score is calculated simply by combining individual RFM score numbers.
