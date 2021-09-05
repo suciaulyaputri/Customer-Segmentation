@@ -1,0 +1,10 @@
+[CUSTOMERS SEGMENTATION] 
+Customer segmentation is the practice of dividing a company's customers into groups that reflect similarities among customers in each group. The goal of segmenting customers is to decide how to relate to customers in each segment in order to maximize the value of each customer to the business.
+I am using Recency, Frequency, and Monetary (RFM) Analysis and K- Means Clustering to make customers segmentation. 
+In addition, I also explored data to gain some insight that can be used as recommendations for the business team to increase sales and customers.
+
+You can see the code of this project though this Github
+
+And you can see the business insight which can answer the objective business through PDF below.
+
+Thank you
